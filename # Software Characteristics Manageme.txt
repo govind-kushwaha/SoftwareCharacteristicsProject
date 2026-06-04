@@ -1,0 +1,9 @@
+# Software Characteristics Management System
+
+This project demonstrates:
+
+- Operational Characteristics
+- Transitional Characteristics
+- Maintenance Characteristics
+
+Language Used: Java
